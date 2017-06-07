@@ -3,8 +3,8 @@ just for test
 #### 1. 这里是一级页面显示的数据内容，主要是total相关的统计
 
 |字段| 描述|
-|:------:| :-----:| :----: |
-| *一级展示列表* |
+|:------:| :-----:|:----:|
+|*一级展示列表*|
 |company|公司名字|
 |date_start|开始日期|
 |date_end|结束日期|
@@ -29,7 +29,7 @@ company total records，company total events records ratio，bid request number�
 
 |字段| 描述|
 |:------:| :-----:| :----:|
-| *二级展示列表* |
+|*二级展示列表*|
 |keyword|关键字|
 |start_end_date|时间范围|
 |mounth_1_num|第一个月数|
@@ -42,3 +42,10 @@ company total records，company total events records ratio，bid request number�
 |global  keyword events records  ratio[B]|D/E|
 |company total   records[F]|所有与公司相关的records|
 |company keyword events record ratio[A]|C/F|
+
+  |字段| 描述|例如|
+  |:--------:| :-----:| :----: |
+  | *company_records *|
+  |day|日期|2017-05-02|
+  |company|公司名|IBM|
+  |records|请求数|1234|
