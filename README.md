@@ -27,11 +27,14 @@ company total records，company total events records ratio，bid request number�
 
 #### 2. 这里是二级页面显示的数据内容，主要是keyword 相关的统计
 
-|字段| 描述|
+|字段|描述|
 |:------:| :-----:| :----:|
 |*二级展示列表*|
 |keyword|关键字|
 |start_end_date|时间范围|
+
+
+
 |mounth_1_num|第一个月数|
 |mounth_2_num|第二个月数|
 |mounth_n_num|第 n个月数|
