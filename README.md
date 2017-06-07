@@ -7,11 +7,11 @@ just for test
 |company|公司名字|
 |date_start|开始日期|
 |date_end|结束日期|
-|keywords_num|关键字总数|
+|keywords_num|关键字总|
 |company total events [C]|公司相关所有events|
 |company overall presence ratio|A/B|
 |company total records[D]|所有公司相关的records总数|
-|company total events records ratio[A] |C/D|
+|company total events records ratio[A]|C/D|
 |bid request number|bid总请求数|
 |exchange request number|exchange对应请求数，格式如{“openx”:1, ”index”:2}|
 |global total events[E]|所有关键字扩展后所有events|
