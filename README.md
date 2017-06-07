@@ -38,12 +38,9 @@ company total records，company total events records ratio，bid request number�
  |keyword|关键字| 
  |start\_end\_date|时间范围| 
 
-
-
-
   |字段| 描述|例如|
   |:--------:| :-----:| :----: |
   | *company_records *|
   |day|日期|2017-05-02|
-  |company|公司名|IBM|
+  |comp any |公司名|IBM|
   |records|请求数|1234|
