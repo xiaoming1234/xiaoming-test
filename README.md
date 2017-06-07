@@ -35,7 +35,7 @@ company total records，company total events records ratio，bid request number�
 
 |字段|描述|
  |:--------:| :-----:| :----: |
- |*二级展示列表*| 
+ | *二级展示列表* | 
  |keyword|关键字| 
  |start\_end\_date|时间范围| 
 
