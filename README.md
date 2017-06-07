@@ -31,20 +31,10 @@ company total records，company total events records ratio，bid request number�
 |:------:| :-----:| :----:|
 |*二级展示列表*|
 |keyword|关键字|
-|start_end_date|时间范围|
+|start\_end\_date|时间范围|
 
 
 
-|mounth_1_num|第一个月数|
-|mounth_2_num|第二个月数|
-|mounth_n_num|第 n个月数|
-|Company keyword events[C]|一个关键字所有与公司相关的events|
-|Company  keyword presence ratio|A/B|
-|global keyword events[D]|一个关键字扩展后所有events|
-|global total records[E]|完整记录中所有记录|
-|global  keyword events records  ratio[B]|D/E|
-|company total   records[F]|所有与公司相关的records|
-|company keyword events record ratio[A]|C/F|
 
   |字段| 描述|例如|
   |:--------:| :-----:| :----: |
