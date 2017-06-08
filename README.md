@@ -59,4 +59,4 @@ company total records，company total events records ratio，bid request number�
 
 
 
-![1231242342354](1.png)
+![12312423423dd54](123.png)
