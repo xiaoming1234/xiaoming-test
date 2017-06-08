@@ -56,3 +56,7 @@ company total records，company total events records ratio，bid request number�
   |day|日期|2017-05-02|
   |comp any |公司名|IBM|
   |records|请求数|1234|
+
+
+
+![1231242342354](1.png)
